@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.App-item {
+  margin: 8px;
+}
+
+.App-dark {
+  background-color: black;
+  color: white;
+}
+.App-light {
+  background-color: white;
+  color: black;
+}

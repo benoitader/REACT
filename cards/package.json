@@ -1,0 +1,17 @@
+{
+  "name": "cards",
+  "version": "0.1.0",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "build": "parcel build",
+    "start": "parcel"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}

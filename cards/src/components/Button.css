@@ -1,0 +1,13 @@
+.Button {
+  border: 2px solid red;
+}
+
+.Button-dark {
+  background-color: white;
+  color: black;
+}
+
+.Button-light {
+  background-color: black;
+  color: white;
+}
