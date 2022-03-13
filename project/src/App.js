@@ -23,7 +23,7 @@ const App = () => {
               </Routes>
             </div>
           </Layout>
-          <div className="footer" level={5} style={{color: 'white', textAlign: 'center'}}>
+          <div className="footer" level={5}>
             <Typography.Title>
               Cryptoviews <br />
               Tous droits réservés

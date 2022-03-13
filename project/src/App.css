@@ -377,3 +377,9 @@ width: 70%;
     padding: 20px;
     align-items: center;
 }
+
+.footer .ant-typography{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
