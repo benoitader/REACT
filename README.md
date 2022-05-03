@@ -1,7 +1,5 @@
 # REACT
 
-REACT YNOV MAJEURE
-
 Tous les exercices de la majeure REACT | ADER BENOIT
 
 En parrallèle des cours et du support de cours je me suis aidé de :
